@@ -5,21 +5,24 @@ you can add  and remove items to the cart also.
 
 In this code repository redux and react route is used.
 
-** To use React Redux with your React app, install it as a dependency: **
+## Some details about the project (optional)
 
-* If you use npm: *
+**To use React Redux with your React app, install it as a dependency:**
+
+#### If you use npm: 
 > npm install react-redux 
 
-* Or if you use yarn: *
+#### Or if you use yarn: 
 > yarn add react-redux 
 
-*** To use logos/Icons like add, remove, add to cart, install :-  ***
-> npm install @mui/material
-> npm install @mui/icons-material
-> npm install @emotion/styled  
-> npm install @emotion/react
+***To use logos/Icons like add, remove, add to cart, we installed :-***
+```npm install @mui/material```
+```npm install @mui/icons-material```
+```npm install @emotion/styled```
+```npm install @emotion/react```
 
-#### Setup:- 
+
+## Main Setup:- 
 
 - run ``` npm i ```&& ```npm start``` for both client and server side to start the development server
 
