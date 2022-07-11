@@ -17,8 +17,11 @@ In this code repository redux and react route is used.
 
 ***To use logos/Icons like add, remove, add to cart, we installed :-***
 ```npm install @mui/material```
+
 ```npm install @mui/icons-material```
+
 ```npm install @emotion/styled```
+
 ```npm install @emotion/react```
 
 
