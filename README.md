@@ -16,6 +16,7 @@ In this code repository redux and react route is used.
 > yarn add react-redux 
 
 ***To use logos/Icons like add, remove, add to cart, we installed :-***
+
 ```npm install @mui/material```
 
 ```npm install @mui/icons-material```
