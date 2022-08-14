@@ -3,7 +3,7 @@ In this website you can shortList your data by clicking on your fav menu card.
 
 you can add  and remove items to the cart also.
 
-In this code repository redux and react route is used.
+In this code repository redux and react router is used.
 
 ## Some details about the project (optional)
 
